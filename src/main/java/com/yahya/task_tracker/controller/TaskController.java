@@ -15,6 +15,10 @@ public class TaskController {
     public List<Task> findAllTasks() {
         return taskService.fetchAllTasks();
     }
+    @GetMapping("/")
+    public String home() {
+        return "Welcome to Task Tracker API";
+    }
 
     @PutMapping("/tasks/{id}")
     public String updateTask(@PathVariable Long id, @RequestBody Task task) {
