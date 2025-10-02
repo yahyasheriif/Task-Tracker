@@ -1,0 +1,14 @@
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/TaskTrackerApplication.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/config/JwtFilter.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/config/SecurityConfiguration.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/controller/AuthController.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/controller/LoginRequest.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/controller/RegisterRequest.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/controller/TaskController.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/entity/Task.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/entity/User.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/repository/TaskRepository.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/repository/UserRepository.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/service/TaskService.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/service/UserService.java
+/home/yahya/Desktop/Task_Tracker/src/main/java/com/yahya/task_tracker/util/JwtUtil.java
